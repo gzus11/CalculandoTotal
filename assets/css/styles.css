@@ -1,0 +1,46 @@
+/* Estilos para centrar la tarjeta */
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+    margin: 0;
+}
+
+/* Tarjeta verde según la imagen del desafío [cite: 16] */
+.card {
+    background-color: #76a03f;
+    color: white;
+    padding: 20px;
+    width: 280px;
+    border-radius: 10px;
+    box-shadow: 4px 4px 10px rgba(0,0,0,0.2);
+    text-align: center;
+}
+
+.img-card img {
+    width: 100%;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+/* Botones naranjas [cite: 1, 24] */
+button {
+    background-color: #f39c12;
+    border: none;
+    color: white;
+    padding: 6px 14px;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+    margin: 0 5px;
+}
+
+/* Sección del total fuera de la tarjeta [cite: 15] */
+.total-section {
+    margin-left: 30px;
+    font-size: 1.4rem;
+    color: #333;
+}

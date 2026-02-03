@@ -12,8 +12,6 @@ Este proyecto consiste en una tarjeta de producto interactiva para una tienda on
 * **Disminuir cantidad**: Reduce el número de productos al hacer clic en el botón `-`.
 * **Cálculo dinámico**: Actualiza automáticamente el total a pagar multiplicando la cantidad por el precio base ($400,000)
 
-##  Previsualización
-*(Aquí puedes agregar una captura de pantalla de tu proyecto una vez que lo termines)*
 
 ##  Requerimientos del Desafío
 1. Reacción a eventos de clic.
